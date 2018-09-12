@@ -2,9 +2,7 @@
 
 * Assuming node and npm are installed on your operating system.
 * Check by typing `node -v` and `npm -v` on console
-## Install typescript globally
-
-* On terminal
+* Install typescript globally, using terminal :
 `sudo npm install -g typescript`
 
 * Initiate a typescript project in a separate directory
