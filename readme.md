@@ -6,7 +6,7 @@
 `sudo npm install -g typescript`
 
 * Initiate a typescript project in a separate directory
-`typescript --init`
+`tsc --init`
 
 * The above step should create a `tsconfig.json` file 
 
